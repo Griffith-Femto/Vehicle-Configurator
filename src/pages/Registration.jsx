@@ -69,8 +69,8 @@ function App() {
               </Typography>
               <form onSubmit={handleSubmit}>
               <TextField
-                label="ID"
-                type="text"
+                label="Email id"
+                type="email"
                 name="id"
                 fullWidth
                 margin="normal"
